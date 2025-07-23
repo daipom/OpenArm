@@ -12,6 +12,8 @@ Please share it to [GitHub Issues](https://github.com/enactic/openarm/issues/new
 
 Please open a pull request with it!
 
+For website modifications, please refer to [website/README.md](./website/README.md).
+
 OpenArm is open source under Apache-2.0 and open hardware under CERN-OHL-S, please make sure to review the [LICENSE](LICENSE) and [LICENSE-HW](LICENSE-HW) before you open a pull request.
 
 ## Others?
